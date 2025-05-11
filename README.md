@@ -1,77 +1,92 @@
-# Gnosis Chain AI Pools & Wallet Demo
+# DeFi Analytics Platform - FindYourPick
 
-## Overview
-This project is a proof-of-concept DApp and analytics toolkit for exploring liquidity pools, token holders, and wallet interactions on the Gnosis Chain. It combines a web-based AI chat assistant, a wallet connection demo, and Python scripts for on-chain pool analytics.
+An attempt at creating a DeFi analytics platform that provides real-time analysis of Balancer pools on Gnosis Chain from an ai-agent. Ours clearly needs some more work yet it was an interesting project to build.
 
-### Key Features
-- **Web App (Frontend)**
-  - Modern UI with a Gnosis Chain AI chat assistant.
-  - Connect/disconnect wallet demo with Gnosis Chain support.
-  - Beautiful, responsive layout and custom background.
-- **Data Analytics (Backend/Python)**
-  - Python scripts were created for testing purpose to fetch, rank, and analyze Gnosis Chain pool data using Subgraphs, Dune Analytics and Moralis APIs.
+## Features
+
+- Real-time pool data analysis
+- AI-powered insights using Llama model
+- RESTful API endpoints for data access
+- Automatic data refresh mechanism
+- Comprehensive pool metrics including:
+  - 48h fees
+  - 48h volume
+  - Holder count
+  - Total liquidity
+  - Chain information
+  - Pool tags
+
+## Prerequisites
+
+- Node.js (v14 or higher)
+- npm (Node Package Manager)
+- Ollama (for AI model integration)
+- Git
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Ja1m3st/EthLisbon2025
+cd EthLisbon2025
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Create a `.env` file in the root directory with the following variables:
+```env
+PORT=3000
+OLLAMA_URL=http://localhost:11434
+OLLAMA_MODEL=llama3.2:latest
+OLLAMA_TEMPERATURE=0.5
+OLLAMA_MAX_TOKENS=50
+DATA_REFRESH_INTERVAL=3600000
+```
+
+## Running the Application
+
+1. Start the server:
+```bash
+npm start
+```
+
+The server will start on port 3000 (or the port specified in your .env file).
+
+## API Endpoints
+
+### Chat Endpoint
+- **POST** `/api/chat`
+- **Body**: `{ "message": "Your question about DeFi pools" }`
+- **Response**: `{ "reply": "AI-generated response" }`
+
+### Health Check
+- **GET** `/api/health`
+- **Response**: Server status, pool data statistics, and uptime
 
 ## Project Structure
+
 ```
-/ai
-├── public/
-│   ├── index.html        # Main web app UI
-│   ├── styles.css        # App styling
-│   ├── handleEnter.js    # (Optional) Frontend JS
-│   └── ...
-├── DuneQueries/
-│   ├── unified-script.py       # Main Python analytics script
-│   ├── extract_unique_tags.py  # Script to extract unique tags from csvjson.json
-│   ├── csvjson.json            # Pool data (from Dune or Moralis)
-│   └── ...
-└── README.md
+├── server.js           # Main application server
+├── package.json        # Project dependencies and scripts
+├── public/            # Static files
+├── DuneQueries/      # Data source files
+│   └── csvjson.json  # Pool data
+└── .env              # Environment variables (create this)
 ```
 
-## How It Works
-### Web App
-- The frontend allows users to connect their wallet (MetaMask etc.) to the Gnosis Chain, interact with a chat AI, and see a visually appealing, modern UI.
-- The chat AI can answer questions about Gnosis Chain pools and investments.
+## Dependencies
 
-### Data Analytics Scripts
-- `unified-script.py` fetches pool data from Dune Analytics and Moralis, ranks pools by holders, and saves results to CSV.
-- `extract_unique_tags.py` finds all unique tags in the pool dataset, ignoring empty/NULL tags.
+- express: Web framework
+- axios: HTTP client
+- body-parser: Request body parsing
+- cors: Cross-origin resource sharing
+- dotenv: Environment variable management
+- ethers: Ethereum library
+- csv-parse: CSV parsing utilities
 
-## Getting Started
-### Prerequisites
-- **Node.js** (for running a local web server, if desired)
-- **Python 3.8+**
-- **API Keys** for Dune Analytics and Moralis (set in a `.env` file)
+## Data Refresh
 
-### Setup
-1. **Clone the repository**
-2. **Install Python dependencies**
-   ```bash
-   pip install python-dotenv moralis
-   ```
-3. **Configure API Keys**
-   - Create a `.env` file in the root directory:
-     ```env
-     DUNE_API_KEY=your_dune_api_key
-     MORALIS_API_KEY=your_moralis_api_key
-     ```
-4. **Prepare Data**
-   - Place your pool data in `DuneQueries/csvjson.json` (JSON array format).
-
-
-### Running the Web App
-- You can open `public/index.html` directly in your browser for local testing.
-- For a local server (recommended for wallet connection):
-  ```bash
-  npx serve public
-  # or
-  python3 -m http.server 8000 --directory public
-  ```
-  Then visit `http://localhost:8000` in your browser.
-
-## Customization & Extending
-- Update `csvjson.json` with new pool data as needed.
-- Modify Python scripts to add new analytics or export formats.
-- Tweak the frontend (HTML/CSS/JS) for new features or branding.
-
----
-*Created by Jaime, Cris, Augustin and Guillaume.*
+The application automatically refreshes pool data at regular intervals (default: 1 hour). This can be configured through the `DATA_REFRESH_INTERVAL` environment variable.
