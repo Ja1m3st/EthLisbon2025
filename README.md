@@ -34,7 +34,12 @@ cd EthLisbon2025
 2. Install dependencies:
 ```bash
 npm install
+
+# if you do not have ollama installed, go here https://ollama.com/download
+ollama pull llama3.2:latest
 ```
+
+
 
 3. Create a `.env` file in the root directory with the following variables:
 ```env
@@ -50,7 +55,7 @@ DATA_REFRESH_INTERVAL=3600000
 
 1. Start the server:
 ```bash
-npm start
+node server.js
 ```
 
 The server will start on port 3000 (or the port specified in your .env file).
