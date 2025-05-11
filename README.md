@@ -1,6 +1,6 @@
 # DeFi Analytics Platform - FindYourPick
 
-An attempt at creating a DeFi analytics platform that provides real-time analysis of Balancer pools on Gnosis Chain from an ai-agent. Ours clearly needs some more work yet it was an interesting project to build. We made use of Subgraphs from Balancer to query the data.
+An attempt at creating a DeFi analytics platform that provides real-time analysis of Balancer pools on Gnosis Chain from an ai-agent. Ours clearly needs some more work yet it was an interesting project to build. We learnt about Dune to find interesting pools, about Subgraphs from Balancer to query the data and made use of other APIs.
 
 ## Features
 
