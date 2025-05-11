@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gnosis Chain AI Pools</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="gnosis-bg-logos">
+        <img src="logo.png" class="bg-logo" style="top:10%; left:15%;">
+        <img src="logo.png" class="bg-logo" style="top:30%; left:70%;">
+        <img src="logo.png" class="bg-logo" style="top:60%; left:40%;">
+        <img src="logo.png" class="bg-logo" style="top:80%; left:80%;">
+        <img src="logo.png" class="bg-logo" style="top:50%; left:10%;">
+    </div>
+    <!-- Wallet Demo Block -->
+    <div class="main-vertical-align" style="display: flex; flex-direction: column; align-items: center; justify-content: flex-start; min-height: 100vh; gap: 1rem; padding-top: 2rem; width: 100vw;">
+      <div class="container" style="width:100vw; margin:0;">
+          <h1 style="font-size:1.3rem;color:#6EC1FF;margin-bottom:1.2rem; text-align:center;">Gnosis Chain Wallet Demo</h1>
+          <div class="button-group" style="display:flex;gap:0.75rem;margin-bottom:1.5rem; justify-content:center;">
+              <button id="connectButton">🔌 Conectar Wallet</button>
+              <button id="disconnectButton" disabled>🔒 Desconectar</button>
+          </div>
+          <div id="paymentStatus" style="margin-top:1rem;padding:0.75rem;border-radius:0.5rem;font-size:0.85rem;background:rgba(42,157,244,0.1);display:none;text-align:center;"></div>
+      </div>
+      <div class="container" style="display: flex; flex-direction: column; align-items: center; width:100vw; margin:0;">
+          <header style="width:100%; max-width:900px; margin: 0 auto;">
+              <div class="title-container" style="display:flex;align-items:center;justify-content:center;gap:0.75rem; width:100%;">
+                  <img src="logo.png" alt="Gnosis Logo" class="gnosis-logo">
+                  <h1 style="margin:0;">Gnosis Chain AI</h1>
+              </div>
+              <p class="subtitle" style="text-align:center;">Your assistant for Gnosis Chain</p>
+          </header>
+          <div class="chat-container" style="max-width:900px; width:100%; margin: 0 auto; align-self: center;">
+              <div class="chat-messages" id="chat-messages" style="display: flex; flex-direction: column; gap: 10px; padding: 15px; max-width:900px; width:100%; margin: 0 auto;">
+          <!-- Mensajes iniciales -->
+          <div class="message ai-message">
+            <h3 style="margin: 0 0 10px 0; color: var(--gnosis-green);">Welcome to Gnosis Chain AI!</h3>
+            <p style="margin: 0; opacity: 0.8;">Ask me anything about Gnosis Chain pools and investments.</p>
+          </div>
+        </div>
+            <div class="input-container">
+                <textarea id="userInput" placeholder="Ask me anything about Gnosis Chain..." rows="1"></textarea>
+                <button onclick="sendMessage()">Send</button>
+
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/ethers@6.2.3/dist/ethers.umd.min.js"></script>
+    <script>
+    const connectButton = document.getElementById("connectButton");
+    const disconnectButton = document.getElementById("disconnectButton");
+    const paymentStatus = document.getElementById("paymentStatus");
+
+    let connectedAccount = null;
+    window.connectedAccount = null;
+    let provider = null;
+    let signer = null;
+
+    const fetchTokenBalances = async (address, open) => {
+        if (!address || !open) return null;
+        
+        try {
+            const provider = new ethers.JsonRpcProvider('https://rpc.gnosischain.com/');
+            
+            // Get native xDAI balance
+            const nativeBalance = await provider.getBalance(address);
+            const nativeBalanceFormatted = ethers.formatUnits(nativeBalance, 18);
+            
+            // Get ERC20 token balances from the wallet
+            const tokenContracts = [
+                { address: '0xddafbb505ad214d7b80b1f830fccc89b60fb7a83', symbol: 'USDC' },  // USDC
+                { address: '0xe91D153E0b41518A2Ce8dD3D7944Fa863463a97d', symbol: 'WXDAI' }, // WXDAI
+                { address: '0x6a023ccd1ff6f2045c3309768ead9e68f978f6e1', symbol: 'WETH' },  // WETH
+                { address: '0x8e5bBbb09Ed1ebdE8674Cda39A0c169401db4252', symbol: 'WBTC' },  // WBTC
+                { address: '0x4922a015c4407f87432b179bb209e125432e4a2a', symbol: 'TRBTC' }  // TRBTC
+            ];
+
+            const tokensWithBalance = [
+                {
+                    contractAddress: null,
+                    symbol: 'xDAI',
+                    balance: nativeBalance.toString(),
+                    formattedBalance: nativeBalanceFormatted,
+                    decimals: 18
+                }
+            ];
+
+            for (const token of tokenContracts) {
+                try {
+                    const contract = new ethers.Contract(token.address, [
+                        'function balanceOf(address owner) view returns (uint256)',
+                        'function decimals() view returns (uint8)',
+                        'function symbol() view returns (string)'
+                    ], provider);
+                    const balance = await contract.balanceOf(address);
+                    const decimals = await contract.decimals();
+                    const symbol = await contract.symbol();
+                    
+                    const formattedBalance = ethers.formatUnits(balance, decimals);
+                    if (Number(formattedBalance) > 0) {
+                        tokensWithBalance.push({
+                            contractAddress: token.address,
+                            symbol: symbol,
+                            balance: balance.toString(),
+                            formattedBalance: formattedBalance,
+                            decimals: decimals
+                        });
+                    }
+                } catch (error) {
+                    console.error(`Error fetching balance for ${token.symbol}:`, error);
+                }
+            }
+
+            const totalValue = tokensWithBalance.reduce((sum, token) => 
+                sum + Number(token.formattedBalance), 0
+            );
+
+            return {
+                tokens: tokensWithBalance.sort((a, b) => 
+                    Number(b.formattedBalance) - Number(a.formattedBalance)
+                ),
+                totalValue
+            };
+        } catch (error) {
+            console.error('Error fetching token balances:', error);
+            throw error;
+        }
+    };
+
+    async function switchToRootstock() {
+        try {
+            await window.ethereum.request({
+                method: 'wallet_switchEthereumChain',
+                params: [{ chainId: '0x1E' }] // Rootstock chain ID (30 in decimal)
+            });
+        } catch (switchError) {
+            if (switchError.code === 4902) {
+                await window.ethereum.request({
+                    method: 'wallet_addEthereumChain',
+                    params: [ {
+                        chainId: '0x1E',
+                        chainName: 'Rootstock',
+                        nativeCurrency: {
+                            name: 'RBTC',
+                            symbol: 'RBTC',
+                            decimals: 18
+                        },
+                        rpcUrls: ['https://public-node.rsk.co'],
+                        blockExplorerUrls: ['https://explorer.rsk.co']
+                    }]
+                });
+            } else {
+                throw switchError;
+            }
+        }
+    }
+
+    connectButton.addEventListener("click", async () => {
+        if (!window.ethereum) {
+            paymentStatus.textContent = "❌ No wallet detected. Please install MetaMask or similar.";
+            paymentStatus.style.display = "block";
+            return;
+        }
+        try {
+            provider = new ethers.BrowserProvider(window.ethereum);
+            const accounts = await provider.send("eth_requestAccounts", []);
+            connectedAccount = accounts[0];
+window.connectedAccount = connectedAccount;
+signer = await provider.getSigner();
+
+            await switchToRootstock();
+
+            connectButton.style.display = 'none';
+            disconnectButton.disabled = false;
+            paymentStatus.textContent = `✅ Connected: ${connectedAccount}`;
+            paymentStatus.style.display = "block";
+            setTimeout(() => {
+                paymentStatus.style.display = "none";
+            }, 1300); // Hide after 1.3 seconds
+        } catch (err) {
+            console.error("Error conectando:", err);
+            paymentStatus.textContent = `❌ Error: ${err.message}`;
+            paymentStatus.style.display = "block";
+        }
+    });
+
+    disconnectButton.addEventListener("click", () => {
+        connectedAccount = null;
+window.connectedAccount = null;
+        connectButton.style.display = 'inline-block';
+        disconnectButton.disabled = true;
+        paymentStatus.textContent = "";
+        paymentStatus.style.display = "none";
+    });
+
+
+
+    // Send message on Enter in textarea
+    document.getElementById('userInput').addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            sendMessage();
+        }
+    });
+
+    async function sendMessage() {
+        const userInput = document.getElementById('userInput').value.trim();
+        if (!userInput) return;
+
+        // Add user message to chat
+        const chatMessages = document.getElementById('chat-messages');
+        const userMessage = document.createElement('div');
+        userMessage.className = 'message user-message';
+        userMessage.innerHTML = `<p style="margin:0;">${userInput}</p>`;
+        chatMessages.appendChild(userMessage);
+        document.getElementById('userInput').value = '';
+        chatMessages.scrollTop = chatMessages.scrollHeight;
+
+        // Show loading state
+        const loadingDiv = document.createElement('div');
+        loadingDiv.className = 'message ai-message loading';
+        loadingDiv.textContent = '...' + ' '.repeat(10);
+        chatMessages.appendChild(loadingDiv);
+
+        try {
+            // Get token balances if wallet is connected
+            let tokenBalances = null;
+            if (connectedAccount) {
+                tokenBalances = await fetchTokenBalances(connectedAccount, true);
+            }
+
+            const response = await fetch('/api/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ 
+                    message: userInput,
+                    address: connectedAccount,
+                    tokenBalances: tokenBalances
+                })
+            });
+
+            const data = await response.json();
+            
+            // Replace loading with actual response
+            loadingDiv.className = 'message ai-message';
+            loadingDiv.textContent = data.reply;
+        } catch (error) {
+            console.error('Error:', error);
+            loadingDiv.className = 'message ai-message error';
+            loadingDiv.textContent = 'Error: ' + error.message;
+        }
+    }
+
+    // Botón para imprimir balances en consola
+    document.getElementById('logBalancesBtn').addEventListener('click', async () => {
+        if (!window.ethereum || !connectedAccount) {
+            console.log('No wallet conectada.');
+            return;
+        }
+        
+        try {
+            const tokenBalances = await fetchTokenBalances(connectedAccount, true);
+            if (tokenBalances) {
+                console.log('Mis tokens:', tokenBalances.tokens);
+                console.log('Valor total:', tokenBalances.totalValue);
+                
+                const container = document.getElementById('balancesContainer');
+                container.innerHTML = '';
+                tokenBalances.tokens.forEach(b => {
+                    const div = document.createElement("div");
+                    div.textContent = `${b.symbol}: ${b.formattedBalance}`;
+                    div.style.marginBottom = "0.5rem";
+                    div.style.color = "#6EC1FF";
+                    container.appendChild(div);
+                });
+            }
+        } catch (error) {
+            console.error('Error al obtener los balances:', error);
+        }
+    });
+    </script>
+</body>
+</html>
