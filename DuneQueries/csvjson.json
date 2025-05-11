@@ -1,0 +1,3062 @@
+[
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50wstETH-25BAL-25AURA",
+    "address": "0x00df7f58e1cf932ebe5f54de5970fb2bdf0ef06d",
+    "fees48h": 81.96,
+    "volume48h": 16392.93,
+    "holdersCount": 75,
+    "totalLiquidity": 788699.43,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4Z3wqsxwjaGggPZRgQWgso84NjAT-ERC20s",
+    "address": "0x012e370bbe56df7cd08b4eb314581934e61cf9df",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "33WETH-33USDC-33WXDAI",
+    "address": "0x013fdedd2bd8a49d6ec9447125bf32dab2f5648e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WETH-50HOP",
+    "address": "0x026e352458409db7113cda942149c1e19693ac80",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 5,
+    "totalLiquidity": 58.12,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-46ZR89k5Qag1JW9uvCGTpNysPG6z-ERC20s",
+    "address": "0x02b4fc4e75de8de81b30c4a5e18c98c10316c668",
+    "fees48h": 0.05,
+    "volume48h": 1.73,
+    "holdersCount": 2,
+    "totalLiquidity": 122.24,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-vz3FXAehfZHPTVPYUBDvPEhiBkA-ERC20s",
+    "address": "0x02ddfbd01b55fa23297f13dfd7b0022fabf81e91",
+    "fees48h": 0,
+    "volume48h": 0.16,
+    "holdersCount": 2,
+    "totalLiquidity": 0.78,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "80GROSH 20sDAI",
+    "address": "0x031032ef4c0c9dc9710daca530de284c609e7aee",
+    "fees48h": 0.01,
+    "volume48h": 0.51,
+    "holdersCount": 1,
+    "totalLiquidity": 25.29,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Gyro sxDAI Rehype",
+    "address": "0x045200c6077f105023000d803f3f95b16b187d70",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 4,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "wxdai usdc test pool",
+    "address": "0x0503dd6b2d3dd463c9bef67fb5156870af63393e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 9,
+    "totalLiquidity": 9.86,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "30USDC.e-10BAL-60GROSH",
+    "address": "0x052e3a676034fd4dddf2ed1242be296e54002182",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Stable stEUR EURe pool",
+    "address": "0x06135a9ae830476d3a941bae9010b63732a055f4",
+    "fees48h": 23.21,
+    "volume48h": 46427.97,
+    "holdersCount": 21,
+    "totalLiquidity": 849377.22,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-CirclesLisboa",
+    "address": "0x0657371291f4a4cea38f321158313ae8d4043819",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 117.16,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 WXDAI 50 PAXG",
+    "address": "0x06e6cd29e213e6deb4cfa0aae49bb6c717989fde",
+    "fees48h": 0,
+    "volume48h": 0.11,
+    "holdersCount": 1,
+    "totalLiquidity": 11.25,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BCoW AMM 50WETH-50GNO",
+    "address": "0x079d2094e16210c42457438195042898a3cff72d",
+    "fees48h": 0,
+    "volume48h": 156616.51,
+    "holdersCount": 8,
+    "totalLiquidity": 2878957.68,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-vz3FXAehfZHPTVPYUBDvPEhiBkA-ERC20s",
+    "address": "0x0834a8938bb0f917749db38886141d09e47126a8",
+    "fees48h": 0.01,
+    "volume48h": 0.55,
+    "holdersCount": 2,
+    "totalLiquidity": 10.29,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-bGWJNAvpwPfP91geazTBrkNvBwm-ERC20s",
+    "address": "0x08f5fab3a62efbb473160092fcebf5e2d8d50ff6",
+    "fees48h": 0,
+    "volume48h": 0.02,
+    "holdersCount": 2,
+    "totalLiquidity": 1.4,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BFN50WBTC50",
+    "address": "0x09d50d1cab16bf9c69034ff15221bc3ed84df259",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.12,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50VITA-50WETH",
+    "address": "0x0a24f8a142fec1c3da01398d2f4dda168443a915",
+    "fees48h": 0.01,
+    "volume48h": 1.33,
+    "holdersCount": 2,
+    "totalLiquidity": 35.08,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4PcLc8QpAK3XuQqZu6YcjULjBdDC-ERC20s",
+    "address": "0x0a35aa80ee2e514a5a78cf5e4dac867fa0616806",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.76,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "COW WXDAI",
+    "address": "0x0aa6be70d7dd6c05426a1817a16cd677370636a8",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.11,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "GROSH-EURe",
+    "address": "0x0c147051622fb6a45ccdfaa94308e3e1061091c0",
+    "fees48h": 0.01,
+    "volume48h": 1.12,
+    "holdersCount": 3,
+    "totalLiquidity": 134.21,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer EURe/staBAL3",
+    "address": "0x0c1b9ce6bf6c01f587c2ee98b0ef4b20c6648753",
+    "fees48h": 0,
+    "volume48h": 4.12,
+    "holdersCount": -60,
+    "totalLiquidity": 22.88,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50sDAI-50WXDAI",
+    "address": "0x0ef212abfec20642326a0be06cfa5cd8f08d9b22",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.23,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50FRACTION-50MIVA",
+    "address": "0x11467c3beea894d9e8618d80b9a006c9baa9344c",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 7,
+    "totalLiquidity": 324.09,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "wxdai usdt usdc stable pool",
+    "address": "0x11884da90fb4221b3aa288a7741c51ec4fc43b2f",
+    "fees48h": 0.02,
+    "volume48h": 157.78,
+    "holdersCount": 2,
+    "totalLiquidity": 109.72,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 80 GROSH 20 COW",
+    "address": "0x11950c0f95196d5991a1c2ac18023c35af32eec8",
+    "fees48h": 0,
+    "volume48h": 1.39,
+    "holdersCount": 1,
+    "totalLiquidity": 27.83,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "HNY-BAL",
+    "address": "0x1225d4e9ad9aceb34d03473d514346d07bc04327",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.11,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WETH-50USDC",
+    "address": "0x123839d2dec96a2ac166c9ad9921443d7bbee39e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.05,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BFN50WBTC50",
+    "address": "0x1445d65adcce244505491ccad8a86d161252a0de",
+    "fees48h": 0,
+    "volume48h": 0.5,
+    "holdersCount": 2,
+    "totalLiquidity": 213.65,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "UUSD WXDAI",
+    "address": "0x1545815a9df066bd58d5d47eff7ade0e2a9a6bbb",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-vz3FXAehfZHPTVPYUBDvPEhiBkA-ERC20s",
+    "address": "0x156fff5fda4839b57a042beceed7cb23b4dd4d4c",
+    "fees48h": 0.01,
+    "volume48h": 1,
+    "holdersCount": 2,
+    "totalLiquidity": 14.27,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50agEUR-50WXDAI",
+    "address": "0x15d17723bc3840f6e86ab47819843fcd7558f410",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.54,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "10REG-90USDC",
+    "address": "0x17794db163dd298bba1ffa4d42918c6b8474d948",
+    "fees48h": 0,
+    "volume48h": 0.42,
+    "holdersCount": 5,
+    "totalLiquidity": 1516.52,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3X7FEts6Px9zhmCWLnxupo5Rdnng-ERC20s",
+    "address": "0x1997366c2b4cf8f0c72694b17a9e5bf0078ae443",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.77,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Gyroscope ECLP bCSPX/sDAI",
+    "address": "0x1acd5c5e69dc056649d698046486fb54545ce7e4",
+    "fees48h": 99.19,
+    "volume48h": 99189.41,
+    "holdersCount": 80,
+    "totalLiquidity": 6274484.54,
+    "tags": "RWA,INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Gyroscope ECLP GYD/sDAI",
+    "address": "0x1e8b447129984d8a6b652c807dfc3bd135973133",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 9,
+    "totalLiquidity": 360.21,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4TBbBotB1N8x5smxUoH1AxRitCPp-ERC20s",
+    "address": "0x1f04d242ac02af3fa2d5875b1c3aff8a8d8630b4",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 9.24,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-pKwi8PGtm5GnvBHskhtifsELRGQ-ERC20s",
+    "address": "0x1f37f4e602dea72a608b6c7788eeeeac4e40e52c",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 9.44,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50GROSH 50AURA",
+    "address": "0x1f393c5096549b8bbcbe1d7201bad5b74b518ea8",
+    "fees48h": 0,
+    "volume48h": 0.18,
+    "holdersCount": 1,
+    "totalLiquidity": 15.4,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Stable USD",
+    "address": "0x2086f52651837600180de173b09470f54ef74910",
+    "fees48h": 1.1,
+    "volume48h": 21949.41,
+    "holdersCount": 52,
+    "totalLiquidity": 12091.87,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "MetriTestersSupergroup Pool",
+    "address": "0x2178ef6e2d4408ce87a1f1da886e3023a0b57708",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 6.35,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "30WETH-20HNY-10GNO-40WXDAI",
+    "address": "0x21cb6436adbab74a1f27c665b6385d46801125c8",
+    "fees48h": 0.01,
+    "volume48h": 0.58,
+    "holdersCount": 2,
+    "totalLiquidity": 9.28,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50COW-50GNO",
+    "address": "0x21d4c792ea7e38e0d0819c2011a2b1cb7252bd99",
+    "fees48h": 378.1,
+    "volume48h": 75620.5,
+    "holdersCount": 38,
+    "totalLiquidity": 761016.94,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50REG-50sDAI",
+    "address": "0x22d3f4e4dada5d7a3007a58dd191897ad8578160",
+    "fees48h": 19.38,
+    "volume48h": 193.83,
+    "holdersCount": 22,
+    "totalLiquidity": 12603.89,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-vz3FXAehfZHPTVPYUBDvPEhiBkA-ERC20s",
+    "address": "0x22ffde5869b6c7082c8c8f09dd59abf5794596f7",
+    "fees48h": 0.07,
+    "volume48h": 2.29,
+    "holdersCount": 2,
+    "totalLiquidity": 127.81,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4L3uShvHQjEhwUnnNT1rMiTHFqMw-ERC20s",
+    "address": "0x251642483d16389e35b822a1760aac22c4c3232d",
+    "fees48h": 0,
+    "volume48h": 0.5,
+    "holdersCount": 2,
+    "totalLiquidity": 7.68,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Gyroscope ECLP GYD/AUSDC.e",
+    "address": "0x263a6edafa6444dc2ae550f9eff6344c1686d6aa",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 18,
+    "totalLiquidity": 172147.3,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50waWstETH 50waGNO",
+    "address": "0x272d6be442e30d7c87390edeb9b96f1e84cecd8d",
+    "fees48h": 246.96,
+    "volume48h": 98784.97,
+    "holdersCount": 25,
+    "totalLiquidity": 3154367.48,
+    "tags": "BOOSTED_AAVE,BOOSTED,INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer staBAL3-GNO",
+    "address": "0x274dedb9356c3e1e24bfe2bf3d4349fbdbfa0d14",
+    "fees48h": 0,
+    "volume48h": 0.27,
+    "holdersCount": 11,
+    "totalLiquidity": 5.6,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2DmBvMEAWnfB3tck4uVuFF4GcWPA-ERC20s",
+    "address": "0x2758040e67f01e4ac72eef6d321b95507b34fe1e",
+    "fees48h": 0,
+    "volume48h": 0.13,
+    "holdersCount": 2,
+    "totalLiquidity": 2.55,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50bGME-50sDAI",
+    "address": "0x28535e9bbdc5f5a3095b4c999f50b7f7fe62c023",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 22.73,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-5mnf6bFy57Vj4r8CDk7fTwYgw2s-ERC20s",
+    "address": "0x28a62fa2b48677a32cd085163ad7dd41bba1d7a4",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 0.71,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-5AWBvR52RqrM8LihzFcBT7166wg-ERC20s",
+    "address": "0x2a1fcd42c92a6eaa9e4916b0d41759f7968851c6",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 10.2,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "10BAL-45GROSH-15crvUSD-15sDAI-15WXDAI",
+    "address": "0x2b70a38debcada7f90b88a9662024cefd64db29e",
+    "fees48h": 0.03,
+    "volume48h": 11.16,
+    "holdersCount": 3,
+    "totalLiquidity": 85.26,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "GROSH-GNO",
+    "address": "0x2c0276f204eebf1dae08d1c83588ba90caa9e33e",
+    "fees48h": 0.02,
+    "volume48h": 1.65,
+    "holdersCount": 3,
+    "totalLiquidity": 127.66,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WETH-50GNO",
+    "address": "0x2cb249540d7b84fb4a03b60383de3e968f7f20f8",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3hKhwcb4DjiHVRNRuRU1dMdCHo2p-ERC20s",
+    "address": "0x2d6c0c7e1832a5f7c341a79d95445a78195c6902",
+    "fees48h": 0.01,
+    "volume48h": 1.06,
+    "holdersCount": 2,
+    "totalLiquidity": 8.48,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-Astronauts",
+    "address": "0x2e262ca5ed39265438e74c924e69eff7b6b3f51f",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 141.61,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "15NEXT-85USDC",
+    "address": "0x2ef8705ffe0a116cbc6c3eddd585096714240c8e",
+    "fees48h": 0,
+    "volume48h": 0.02,
+    "holdersCount": 2,
+    "totalLiquidity": 0.46,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-HmjaNz9RzPzv4eobnhmCrscYkQu-ERC20s",
+    "address": "0x2f2b1c18d4a676234eec3e5283d7c1142d0e6a51",
+    "fees48h": 0.02,
+    "volume48h": 2.12,
+    "holdersCount": 2,
+    "totalLiquidity": 10.78,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "USDC.e EURe",
+    "address": "0x30f94009b65778b36122a5bbdf5dfcae4d0aff25",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 3.64,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50bNVDA-50sDAI",
+    "address": "0x31a43002e60d4b66084f4cc4e68585358c362b44",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 5,
+    "totalLiquidity": 21.5,
+    "tags": "RWA"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "TEST",
+    "address": "0x31bccf9e28b94e5dacebaa67fe8bc1603cecd904",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 101.89,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer osGNO/GNO StablePool",
+    "address": "0x3220c83e953186f2b9ddfc0b5dd69483354edca2",
+    "fees48h": 0.11,
+    "volume48h": 1147.03,
+    "holdersCount": 67,
+    "totalLiquidity": 1513208.46,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "60REG-20sDAI-20USDC",
+    "address": "0x327e7fd9c7fd521305d35c513ce2e561f3c3126c",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.1,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-7na1tqTcnUVbREioMDV4qZqRjjP-ERC20s",
+    "address": "0x329904657c40b10e759b19956eb6a0517b6d1b45",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.78,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50USDC-50WXDAI",
+    "address": "0x3306f9356f6645bedd7dc3803bd6872dfd48f058",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.22,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2k9qAo7Kiq5wLh1Hk2yzXUUE6t4j-ERC20s",
+    "address": "0x3327ab64002e1969184e163a3c08dbf9e046c5c6",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 10.07,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "13REG-13staBAL3-13wstETH-13WBTC-13GNO-13sDAI-13OLAS-13WXDAI",
+    "address": "0x333c19b134553fdc75b2e252b7f56dd3ec34c1f9",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.23,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "80sDAI 20s FNDG",
+    "address": "0x342e7ac540c6d7beb56bca1047cc97395b0ce385",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 145.86,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "waGnowstETH PAXG WBTC",
+    "address": "0x3491bfb37c749121f6175d612ae222f57825a878",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 2.2,
+    "tags": "BOOSTED_AAVE,BOOSTED,HOOKS_STABLESURGE"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50MIVA-50GNO",
+    "address": "0x360b4ff22b268af38ced941193e48d183b924a95",
+    "fees48h": 0,
+    "volume48h": 0.12,
+    "holdersCount": 2,
+    "totalLiquidity": 3.21,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2MpCKMWudtpme62K8Qd5CVXx7CCF-ERC20s",
+    "address": "0x364d24f2c631699507f23d99bb9dc0277c38ead3",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.83,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "51WETH-49GNO",
+    "address": "0x36c7c45c2ed92e28584f35f5a91a35b7b7342132",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50AGVE-50GNO",
+    "address": "0x388cae2f7d3704c937313d990298ba67d70a3709",
+    "fees48h": 0,
+    "volume48h": 46.66,
+    "holdersCount": 4561,
+    "totalLiquidity": 1475.58,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50sDAI 50WXDAI",
+    "address": "0x3a2906c46ba289f8e6fda4446a48bd2b57312ae4",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "49WETH-51WXDAI",
+    "address": "0x3a2e363c09a8d38e88d68630c426b394023fe5d0",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3pvUxnoYMvnxBU6vPKKQzTJGefPP-ERC20s",
+    "address": "0x3ada2f830936ab027a9f59d1c870f8230bbfb0e5",
+    "fees48h": 0.18,
+    "volume48h": 6.04,
+    "holdersCount": 2,
+    "totalLiquidity": 100.48,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50SAFE-50OLAS",
+    "address": "0x3b28e683d0f7012e3194d2dbc0247d227b859b00",
+    "fees48h": 0,
+    "volume48h": 0.29,
+    "holdersCount": 6,
+    "totalLiquidity": 9.57,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WETH-50EURe",
+    "address": "0x3b7f9b579cb50b00bdb71672fa1a26f6eada9114",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50USD-50WETH",
+    "address": "0x3f3df4deee2067e7972d436980d2887103a3ed4d",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50waGnoUSDCe 50s HDGDL",
+    "address": "0x3ffea21b2f44fafd6938e3946005c8f4a12988b7",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 62.65,
+    "tags": "BOOSTED_AAVE,BOOSTED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4QakpDC9Jn1e7NpfwmXMVWJzRNcC-ERC20s",
+    "address": "0x4045e90f398472308b3bc7006726bf1eff56e9e3",
+    "fees48h": 0.04,
+    "volume48h": 4.38,
+    "holdersCount": 2,
+    "totalLiquidity": 8.67,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-467adaFEyS2adGVKS2jgsKC1y1iW-ERC20s",
+    "address": "0x4050706fa87b86c187067f77a47415eeac57297a",
+    "fees48h": 0.01,
+    "volume48h": 0.32,
+    "holdersCount": 2,
+    "totalLiquidity": 121.76,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-BwtPo3byX8SXGDubtUERFBUh9Eu-ERC20s",
+    "address": "0x4078ca3782d3cccbb2a074832a8e566c40c6aaa3",
+    "fees48h": 0,
+    "volume48h": 0.15,
+    "holdersCount": 2,
+    "totalLiquidity": 7.58,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "80WETH-20WXDAI",
+    "address": "0x440dfa59b820e07677f4cba29d64755eb1c9508e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "20osGNO-80SWISE",
+    "address": "0x4665228b80cf5cd016277157237c40b6d7bd2c65",
+    "fees48h": 1.49,
+    "volume48h": 495.77,
+    "holdersCount": 4,
+    "totalLiquidity": 61898.33,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50wstETH-50GNO",
+    "address": "0x4683e340a8049261057d5ab1b29c8d840e75695e",
+    "fees48h": 1794.46,
+    "volume48h": 598153.63,
+    "holdersCount": 56,
+    "totalLiquidity": 19997743.41,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-ZUSx5Gin4nETwBL6oLgGA3doyjR-ERC20s",
+    "address": "0x46f1bf3f3cdf0c90ac60d16419f84ac639ef0a31",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 9.04,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-KPK",
+    "address": "0x480d4f66cc41a1b6784a53a10890e5ece31d75c0",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 14.16,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "40REG-30sDAI-20WBTC-10wstETH",
+    "address": "0x48a50106d9123efaebf5ee402f3f7e1c3da49f27",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.22,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2csSQzGChfyMXwZDdpBRq8oVThMZ-ERC20s",
+    "address": "0x48b5671fd30ab2c25b06a6bb2fd9bdfb25a0d194",
+    "fees48h": 0.01,
+    "volume48h": 1.32,
+    "holdersCount": 2,
+    "totalLiquidity": 7.85,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-Futura Garden",
+    "address": "0x4b1ed1de4577a9e401f79adf8eba9cdf6839927e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 11.72,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WXDAI-50MPS",
+    "address": "0x4bcf6b48906fa0f68bea1fc255869a41241d4851",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 8,
+    "totalLiquidity": 3733.05,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-vz3FXAehfZHPTVPYUBDvPEhiBkA-ERC20s",
+    "address": "0x4cb0293e931185ad70e28b890f15cd52bb159d74",
+    "fees48h": 0,
+    "volume48h": 0.02,
+    "holdersCount": 2,
+    "totalLiquidity": 1.06,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50wstETH-50COW",
+    "address": "0x4cdabe9e07ca393943acfb9286bbbd0d0a310ff6",
+    "fees48h": 1323.42,
+    "volume48h": 264684.02,
+    "holdersCount": 43,
+    "totalLiquidity": 1980187.07,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "SmartManagedPool",
+    "address": "0x4d7adc5e362a97b5ba1b02bc0447249ac81e76ad",
+    "fees48h": 0,
+    "volume48h": 2316.48,
+    "holdersCount": 5,
+    "totalLiquidity": 182.83,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "USDC.e-USDT-BAL-GROSH-sDAI",
+    "address": "0x4d7d7b769cc617a00ed98ff3426c350a50e72712",
+    "fees48h": 0.01,
+    "volume48h": 4.11,
+    "holdersCount": 3,
+    "totalLiquidity": 84.74,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Boosted Agave GNO/USD",
+    "address": "0x4de21b365d6543661d0e105e579a34b963862497",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.36,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "somename",
+    "address": "0x4ee08f74c9b45ac2fc82aa78151335d423435f39",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "TEST",
+    "address": "0x4fe55a8a044b0265c76d775ba5dcd82266edde89",
+    "fees48h": 0.04,
+    "volume48h": 14.64,
+    "holdersCount": 2,
+    "totalLiquidity": 19.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-Tkx1P1RXns8b2DNVbw2zm5jiJF1-ERC20s",
+    "address": "0x4ff38cd5b27de0d4937bfa62e2f3f661e9b0cb5b",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 10.22,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BCoW AMM 50wstETH-50sDAI",
+    "address": "0x5089007dec8e93f891dcb908c9e2af8d9dedb72e",
+    "fees48h": 64.8,
+    "volume48h": 1027721.78,
+    "holdersCount": 9,
+    "totalLiquidity": 2790664.52,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "33GNOBBY-33GNO-33SDAI",
+    "address": "0x50909c89b69bdaa1e07a7f23f7d2ff84197e6fe3",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3eggiVNCrcWoDctiRnz6fGB2LARs-ERC20s",
+    "address": "0x50b008e020f25e38eda60fb1b639ed44f67ab930",
+    "fees48h": 0.01,
+    "volume48h": 1.15,
+    "holdersCount": 2,
+    "totalLiquidity": 9.52,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50agEUR-50EURe",
+    "address": "0x5237a12e9d9095cc085f2bdd4e32393993f73c15",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 COW 50 AMIS",
+    "address": "0x5295a9711a6d479656664276bb27b774c2bdad5c",
+    "fees48h": 0,
+    "volume48h": 0.06,
+    "holdersCount": 1,
+    "totalLiquidity": 1.35,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4PcLc8QpAK3XuQqZu6YcjULjBdDC-ERC20s",
+    "address": "0x5353ef2e11c531602fec02d554d0f4cfb6b978f7",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 9.94,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "USDT PAXG",
+    "address": "0x5358cfd1f8a81619682510cabb89e28760214b13",
+    "fees48h": 0.05,
+    "volume48h": 4.66,
+    "holdersCount": 2,
+    "totalLiquidity": 36.54,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer BAL - GNO - wstETH/WETH - WXDAI WeightedPool",
+    "address": "0x5519e2d8a0af0944ea639c6dbad69a174de3ecf8",
+    "fees48h": 0.01,
+    "volume48h": 4.2,
+    "holdersCount": 5,
+    "totalLiquidity": 40.63,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3eggiVNCrcWoDctiRnz6fGB2LARs-ERC20s",
+    "address": "0x55ac2dfed28c703ae21f663edbb24b692095518b",
+    "fees48h": 0.09,
+    "volume48h": 2.99,
+    "holdersCount": 2,
+    "totalLiquidity": 142.54,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WBTC-50WXDAI",
+    "address": "0x571aa9125a32b88c8b4b68c24fcbbfe384491786",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-UVL6Whm8ZsupvWdvRhH8PPRU53-ERC20s",
+    "address": "0x573194bb23c28854c186308b0a7907119761e8ba",
+    "fees48h": 0,
+    "volume48h": 0.04,
+    "holdersCount": 2,
+    "totalLiquidity": 6.78,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3hKhwcb4DjiHVRNRuRU1dMdCHo2p-ERC20s",
+    "address": "0x581048aeb86b2bd62f9f08d05878825706032dd8",
+    "fees48h": 0.03,
+    "volume48h": 1.09,
+    "holdersCount": 2,
+    "totalLiquidity": 99.41,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3pvUxnoYMvnxBU6vPKKQzTJGefPP-ERC20s",
+    "address": "0x5a572694ee291b666cba469d0b6d9fadcb03967d",
+    "fees48h": 0.06,
+    "volume48h": 6.42,
+    "holdersCount": 2,
+    "totalLiquidity": 7.52,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Stable agEUR EURe pool",
+    "address": "0x5c78d05b8ecf97507d1cf70646082c54faa4da95",
+    "fees48h": 0,
+    "volume48h": 14.47,
+    "holdersCount": 539,
+    "totalLiquidity": 1319.26,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2WnQUYDPWcM88UoyvSbtHUNMpDNx-ERC20s",
+    "address": "0x5d017903336c8925015cbf01ce441c5215d11873",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.67,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 WXDAI 50 LLL",
+    "address": "0x5d40ae97ff2de940457d7983f9f17ae3af98a9a4",
+    "fees48h": 0,
+    "volume48h": 0.08,
+    "holdersCount": 1,
+    "totalLiquidity": 10.21,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "15sDAI-85SLX",
+    "address": "0x5dc587361652a791a4b271e635b060665a1d4cef",
+    "fees48h": 0,
+    "volume48h": 0.12,
+    "holdersCount": 3,
+    "totalLiquidity": 5212.99,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-Circles Backers",
+    "address": "0x5e08b6fe16f450668f38efa5493800dea392df8c",
+    "fees48h": 0.14,
+    "volume48h": 13.67,
+    "holdersCount": 2,
+    "totalLiquidity": 1008.94,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "waGnoUSDCe PAXG",
+    "address": "0x6044e76931176e4638243f0a6f9fe86b77f7c215",
+    "fees48h": 0.02,
+    "volume48h": 0.7,
+    "holdersCount": 1,
+    "totalLiquidity": 6.71,
+    "tags": "BOOSTED_AAVE,BOOSTED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-5mnf6bFy57Vj4r8CDk7fTwYgw2s-ERC20s",
+    "address": "0x60625a8597f28641f9405dc3c8ae06359bcae3fd",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 8.87,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 80 ALBC 20 WETH",
+    "address": "0x610618ca532c2baa029d6c0cc4437586a4f6d770",
+    "fees48h": 0,
+    "volume48h": 56.52,
+    "holdersCount": 1,
+    "totalLiquidity": 25166.85,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-gbpp9qiAHK5ifF52CE3KX1uCBvd-ERC20s",
+    "address": "0x61dada04855224aab723d88cf9d88c25266bac79",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 10.21,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Martins Test LBP",
+    "address": "0x6332a93695a0959a9323732728782c3dd4dff34b",
+    "fees48h": 0.12,
+    "volume48h": 4.14,
+    "holdersCount": 2,
+    "totalLiquidity": 46.1,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2DaAzUEvKGQRmJDEAyhHiGrNejkR-ERC20s",
+    "address": "0x63bbf68d133d8ca524d0ef5b89cdcfa6017c62f9",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 10.23,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2MpCKMWudtpme62K8Qd5CVXx7CCF-ERC20s",
+    "address": "0x63e0239eb1ef6f387edb2e7beb61d5456ee96c30",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 14.9,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50agEUR-50BAL",
+    "address": "0x65fdcd3c159845f0b33a274aad527391cfe0583e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.1,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-qNpuP8Cbcpfsy3EVwvdPU2gVF3X-ERC20s",
+    "address": "0x665720bc2b9fbd003e9faeea120ca02e0ad380cb",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 5.33,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer staBAL3-WETH-WBTC",
+    "address": "0x66888e4f35063ad8bb11506a6fde5024fb4f1db0",
+    "fees48h": 22.35,
+    "volume48h": 7450.6,
+    "holdersCount": 26,
+    "totalLiquidity": 36645.51,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-46ZR89k5Qag1JW9uvCGTpNysPG6z-ERC20s",
+    "address": "0x66dd3f55068ffdbbc6d927d433fff726f0002f30",
+    "fees48h": 0.01,
+    "volume48h": 0.96,
+    "holdersCount": 2,
+    "totalLiquidity": 9.04,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-QbrJfYVyM8uZhNK2UKk5GCNCoi4-ERC20s",
+    "address": "0x66de10144e7fe8e2b25bc59bda9c75812e78107b",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 10.06,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-HhaWVzfG5hchcec8i59JfKjJ8av-ERC20s",
+    "address": "0x66ed5d6130cedbe67b74b562d2d6c7c3c913ede2",
+    "fees48h": 0.25,
+    "volume48h": 8.19,
+    "holdersCount": 2,
+    "totalLiquidity": 142.03,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3jDQYAAipQtedzAnweAkGRRytiSs-ERC20s",
+    "address": "0x6755ee0dc143f0fa033fde4a1a32d21678b78f9d",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 10.29,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-32Zor3YUbEasbwdWk2qmfqAtJzDq-ERC20s",
+    "address": "0x67700c47361d042333f12836ee4878fb64969527",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 10.5,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "80AGVE-20sDAI",
+    "address": "0x6a2529deacabaebfc28fa36338fe83f00870cf02",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BCoW AMM 50WETH-50sDAI",
+    "address": "0x6a83c4f5fe2205d84dcdcf9463fe4c55a25a306b",
+    "fees48h": 0,
+    "volume48h": 148.5,
+    "holdersCount": 3,
+    "totalLiquidity": 422.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-Breadchain",
+    "address": "0x6c41e72b36e5640b1b4a174f6c3c62e6d102a3f0",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 99.56,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "waWstETH waWETH",
+    "address": "0x6e6bb18449fcf15b79efa2cfa70acf7593088029",
+    "fees48h": 43.11,
+    "volume48h": 431135.51,
+    "holdersCount": 24,
+    "totalLiquidity": 3587119.61,
+    "tags": "BOOSTED_AAVE,BOOSTED,INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 WXDAI 50 WETH",
+    "address": "0x6ed12790c57c5eee121ef36c23c2fc2851f7353a",
+    "fees48h": 0,
+    "volume48h": 2.67,
+    "holdersCount": 6,
+    "totalLiquidity": 32.96,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Stable USD 4pool",
+    "address": "0x6f4ae97d73c295d69828618ef18bdd1ba0593df1",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "25bCSPX 25WXDAI 25WBTC 25PAXG",
+    "address": "0x6fb656febeadbad8b3b8ff63b1c5c7f1a22ae0f7",
+    "fees48h": 0,
+    "volume48h": 0.43,
+    "holdersCount": 2,
+    "totalLiquidity": 17.94,
+    "tags": "RWA"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "TEST",
+    "address": "0x7079a25dec33be61bbd81b2fb69b468e80d3e72c",
+    "fees48h": 0.06,
+    "volume48h": 20.81,
+    "holdersCount": 2,
+    "totalLiquidity": 19.32,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50EURe-50GBPe",
+    "address": "0x70e1ee4f63131c1e2a7c24ee0af3396a71963641",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BCoW AMM 50GNO-50COW",
+    "address": "0x71663f74490673706d7b8860b7d02b7c76160bae",
+    "fees48h": 0,
+    "volume48h": 56239.42,
+    "holdersCount": 14,
+    "totalLiquidity": 879258.82,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WBTC/50WSTETH",
+    "address": "0x717633a41211c944c7808013b44824c3d9bb63cd",
+    "fees48h": 86.02,
+    "volume48h": 8602.39,
+    "holdersCount": 6,
+    "totalLiquidity": 145780.1,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Gyroscope ECLP rETH/WETH",
+    "address": "0x71e1179c5e197fa551beec85ca2ef8693c61b85b",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 14,
+    "totalLiquidity": 2225758.21,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer sBAL3/crvUSD",
+    "address": "0x72a040c63496c9306ab3409a11dff73176e203fd",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 4,
+    "totalLiquidity": 0.19,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50CRV-25crvUSD-25USDC",
+    "address": "0x72f9a28b95d50a66ac0f3cb008d1e932e142cb72",
+    "fees48h": 0,
+    "volume48h": 0.05,
+    "holdersCount": 2,
+    "totalLiquidity": 4.55,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50COW-50wstETH",
+    "address": "0x739607cb81f559dc52f6a9e054a89c572e5b2baf",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 2.42,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-ETHCC",
+    "address": "0x74bcc320886856bb65c7dccb12af913d8fcd25e7",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 11.72,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Stable USD",
+    "address": "0x7644fa5d0ea14fcf3e813fdf93ca9544f8567655",
+    "fees48h": 25.04,
+    "volume48h": 250418.52,
+    "holdersCount": 76,
+    "totalLiquidity": 364893.75,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-UVL6Whm8ZsupvWdvRhH8PPRU53-ERC20s",
+    "address": "0x76b884e512be781e65a40462b3e1b92211f59297",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 0.65,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WETH-50WXDAI",
+    "address": "0x77672c8c5c91976d79785661f7bff7281ee529ca",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 0.37,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50USD-50bIBTA",
+    "address": "0x77e5bf699db38c578b2982c3e262e9c5f1f50fd0",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2SdwQQ3LKpioVs4NZB51RJXDxKcJ-ERC20s",
+    "address": "0x78ada15665e5ec4c47f40e78c1a0f9df1b0959d7",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 4.15,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3nUA5RXsDJbnHTJkYCyTG3DPAnLr-ERC20s",
+    "address": "0x7918154b80267dfa5e929861a6bfe9e7007e75cd",
+    "fees48h": 0.13,
+    "volume48h": 4.21,
+    "holdersCount": 2,
+    "totalLiquidity": 142.23,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50GNO-50GNOBBY",
+    "address": "0x794b2633de8f8b2ac008b8f780a26fdfe0094ca0",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50OLAS-50WXDAI",
+    "address": "0x79c872ed3acb3fc5770dd8a0cd9cd5db3b3ac985",
+    "fees48h": 514.32,
+    "volume48h": 171441.47,
+    "holdersCount": 22,
+    "totalLiquidity": 984971.26,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50bMSTR-50sDAI",
+    "address": "0x7b2928df0bfdc08fa7d48766327a50b311742a3b",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 36.15,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50USDT-50WETH",
+    "address": "0x7bcc01ba7242e73cb5c93b29cbaac22fba44b6b3",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.04,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2DmBvMEAWnfB3tck4uVuFF4GcWPA-ERC20s",
+    "address": "0x7c5abd732e3c7a8dc30494f9b21b65db96665b4a",
+    "fees48h": 0.01,
+    "volume48h": 1.48,
+    "holdersCount": 2,
+    "totalLiquidity": 26.38,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50wstETH-50NEXT",
+    "address": "0x7caef9e452ce161dec936ace7eab571d1023b209",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 5,
+    "totalLiquidity": 26.81,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WBTC-50MPS",
+    "address": "0x7d6947ec2c1d9ad65550ac977fe29b75ffb9a5ce",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 4.38,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50s HDGDL 50WXDAI",
+    "address": "0x7d9dc2c6a3288b96bc715d8b89844adc46d75446",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.2,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50wstETH-50COW",
+    "address": "0x7dcfd0fe4493611ee9549b06ded97e4f22d938c2",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-467adaFEyS2adGVKS2jgsKC1y1iW-ERC20s",
+    "address": "0x7e20fa2e2fba57dcba71b83f75045a0cf5958206",
+    "fees48h": 0,
+    "volume48h": 0.02,
+    "holdersCount": 2,
+    "totalLiquidity": 0.7,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4QakpDC9Jn1e7NpfwmXMVWJzRNcC-ERC20s",
+    "address": "0x7e5870ac540adfd01a213c829f2231c309623eb1",
+    "fees48h": 0,
+    "volume48h": 0.03,
+    "holdersCount": 2,
+    "totalLiquidity": 0.74,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Gyroscope ECLP GYD/sDAI",
+    "address": "0x7e7419ebef7171c84409b7a1c3a5d4538c98d4a1",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 1012141.28,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50EURe-50GBP3",
+    "address": "0x7f96d8a3d850f0c19f6263be0250925529ab6e2f",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "WXDAI-GNO",
+    "address": "0x8189c4c96826d016a99986394103dfa9ae41e7ee",
+    "fees48h": 9.66,
+    "volume48h": 9660.78,
+    "holdersCount": 9,
+    "totalLiquidity": 20322.25,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50AGVE-50sDAI",
+    "address": "0x81a22596001f64d4ecdd0f6cd2793d1dacf7dfb3",
+    "fees48h": 0,
+    "volume48h": 0.56,
+    "holdersCount": 2,
+    "totalLiquidity": 15.18,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "AURA-BAL-GROSH",
+    "address": "0x8264b90052f7c6104b49f71d921344ddf93867a2",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 osGNO 50 wstETH",
+    "address": "0x834e968977dc1f042dd5a98affb0db0dcef4b5ab",
+    "fees48h": 0,
+    "volume48h": 5.77,
+    "holdersCount": 1,
+    "totalLiquidity": 133.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "33USDT-33USDC-33WXDAI",
+    "address": "0x84bb71a70685bd3f129314370431a2965e349380",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2csSQzGChfyMXwZDdpBRq8oVThMZ-ERC20s",
+    "address": "0x855b624c90c21384c1d80bddf58b60856f4694e3",
+    "fees48h": 0.03,
+    "volume48h": 1.04,
+    "holdersCount": 2,
+    "totalLiquidity": 100.32,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 GIV 50 BRIGHT",
+    "address": "0x85dc9beb2571298c9197ec16fafa556a85e41eae",
+    "fees48h": 0,
+    "volume48h": 57.96,
+    "holdersCount": 1,
+    "totalLiquidity": 1664.25,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2qgWvpNjma5jxjDHif7RVTPNtLgh-ERC20s",
+    "address": "0x8621d57c0e3a0b6dd1d7f8e9d7de1801c162dc96",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.05,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "20WETH-80BAL",
+    "address": "0x864f76eabe542b0a83d09257afad59ad6f4eedc3",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 0.05,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Pool Token",
+    "address": "0x87c5f623c5c334483fc134bc30c71f91b0afc02d",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 5,
+    "totalLiquidity": 472.17,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 BAO 50 SRC9",
+    "address": "0x888d36450364071115ef04fd90c1b4fecb052550",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer BRLA sDAI",
+    "address": "0x889ac9f5c87e6ca075777d5e417b3634d3f84135",
+    "fees48h": 37.57,
+    "volume48h": 7514.78,
+    "holdersCount": 2,
+    "totalLiquidity": 238604.2,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 BZZ 50 WXDAI",
+    "address": "0x8db38b15ccabd9d7f62c77e22a57d979501404d9",
+    "fees48h": 0,
+    "volume48h": 12.97,
+    "holdersCount": 3,
+    "totalLiquidity": 272,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Gyroscope ECLP wstETH/WETH",
+    "address": "0x8dd4df4ce580b9644437f3375e54f1ab09808228",
+    "fees48h": 89.9,
+    "volume48h": 898956.19,
+    "holdersCount": 49,
+    "totalLiquidity": 3139100.32,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-25gHrouvyFRfp56S54hnn5TqFyXH-ERC20s",
+    "address": "0x8f3af93dc35b6486363d9cfa631e9b4df9a3ec82",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 10.19,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "METESTSUP33sDAI67",
+    "address": "0x8f5f9554fd1aee851b6f69d0863bb0f48c2a8402",
+    "fees48h": 1.61,
+    "volume48h": 161.04,
+    "holdersCount": 5,
+    "totalLiquidity": 15286.32,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50COW-25USDC-25WXDAI",
+    "address": "0x8fcadfdfe786c6f8e1cf82fbd1bd243501a18341",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 0.03,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50CRV-50crvUSD",
+    "address": "0x901a2d7e3267674dbd16775f6883c750e155a718",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.1,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3kGahrmEqtvvYTsyXfD73KnFxu6U-ERC20s",
+    "address": "0x90fe25e06972339d314bde46a87eea5661d6c070",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 10.19,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "5XOC-95USDC",
+    "address": "0x915148cde625618e91b76edc7a20f00f12dfc4c1",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "80REG-20WXDAI",
+    "address": "0x915938ff0a2b54e575068ff1a95007cafba7d277",
+    "fees48h": 0,
+    "volume48h": 0.92,
+    "holdersCount": 7,
+    "totalLiquidity": 114.09,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-vBYwYc8mUCvbLeTGJULgKBvLwf5-ERC20s",
+    "address": "0x917177de8088ab0037b8829454a50f68808b2cf7",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.2,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-7na1tqTcnUVbREioMDV4qZqRjjP-ERC20s",
+    "address": "0x917562dcf5ff50bbe28315ee7488f4fd03b2b3fe",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.06,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50GNO-50WXDAI",
+    "address": "0x92a3be6ce4cd693af08756fd71ee23bb60a97c61",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.03,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2csSQzGChfyMXwZDdpBRq8oVThMZ-ERC20s",
+    "address": "0x92a42aadde3f2ce4fefdfb645ffa6a8bd599b384",
+    "fees48h": 0,
+    "volume48h": 0.05,
+    "holdersCount": 2,
+    "totalLiquidity": 0.7,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Swarm",
+    "address": "0x93b016a688d198d88821b4bee5c4afc5e6fa76c7",
+    "fees48h": 0,
+    "volume48h": 0.19,
+    "holdersCount": 3,
+    "totalLiquidity": 36.65,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "",
+    "address": "0x953ee186979f7f0a5c708e63a2755d7163894e4e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 2.72,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "80REG-20GNO",
+    "address": "0x95a2e3f73cdcef576a7d9b9e0d11efb5df90f166",
+    "fees48h": 0.1,
+    "volume48h": 5.24,
+    "holdersCount": 4,
+    "totalLiquidity": 194.66,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "bCSPX waGnoUSDCe",
+    "address": "0x97705254b8f56558a1a1559be0bcf324bd8a2134",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 8.04,
+    "tags": "RWA,BOOSTED_AAVE,BOOSTED,HOOKS_STABLESURGE"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 80 sDAI 20 EURe",
+    "address": "0x97d8bf7a9ede665a1b7d91ac022bacfe4ff4d69c",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 21.74,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "waGnoUSDCe PAXG",
+    "address": "0x98d22bd80a0333072fe5c621445925a159049a62",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 4,
+    "totalLiquidity": 24.43,
+    "tags": "BOOSTED_AAVE,BOOSTED,HOOKS_STABLESURGE"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "30USDT-10BAL-60GROSH",
+    "address": "0x992d07ded155239f64adbb798c7a1b9e90b834e0",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "2EUR (EURe)",
+    "address": "0x9949f1884b61a8265e12056650c1ac4677a75403",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 7,
+    "totalLiquidity": 2.82,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4FGB5CAxMqT8LD27nmsKyCCp7oQo-ERC20s",
+    "address": "0x9a7ed8c4905825f7cc5ec8b0616e81c6a7aa3c3d",
+    "fees48h": 0.01,
+    "volume48h": 0.89,
+    "holdersCount": 2,
+    "totalLiquidity": 7.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "GYD PAXG",
+    "address": "0x9c3e91479b71a28077a1ee45e2906ce66b7d56da",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 6.32,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer GBPe/sDAI",
+    "address": "0x9d93f38b75b376acdfe607cd1ecf4495e047deff",
+    "fees48h": 16.4,
+    "volume48h": 32798.35,
+    "holdersCount": 5,
+    "totalLiquidity": 831120.97,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "TestCMG-LBP-01-LP",
+    "address": "0xa2f76972f091e7658c4ff8eefd6780e235c2c608",
+    "fees48h": 0,
+    "volume48h": 0.02,
+    "holdersCount": 2,
+    "totalLiquidity": 12.9,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "lbptest1",
+    "address": "0xa4924c301cbcf512724b42b35a60c46a61b14bf4",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "90REG-10USDC",
+    "address": "0xa515361b6a769e82f6d2f3f4596af6553fa30b84",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 14.44,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BAL-GROSH-WXDAI",
+    "address": "0xa59d6ec93b050bb755ddc9723ad577aff48d46d6",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer EURe-USD Agave Boosted StablePool",
+    "address": "0xa611a551b95b205ccd9490657acf7899daee5db7",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": -32,
+    "totalLiquidity": 3.9,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50sDAI-50WXDAI",
+    "address": "0xa621c2996c910ab06c3ed0aa689e12b856472405",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3nUA5RXsDJbnHTJkYCyTG3DPAnLr-ERC20s",
+    "address": "0xa7225f9cf2a423c99a6bc29ede8ca61cd1966281",
+    "fees48h": 0.02,
+    "volume48h": 2.34,
+    "holdersCount": 2,
+    "totalLiquidity": 10.29,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4JbDvPuEFQSGN8AzFTR2mY9vrRHa-ERC20s",
+    "address": "0xa7f02b3d57cd6a388adefd7b3595e6f0e51cd0fe",
+    "fees48h": 0.03,
+    "volume48h": 1.06,
+    "holdersCount": 2,
+    "totalLiquidity": 100.33,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BRLA-sDAI",
+    "address": "0xa91c3c043051e7e680b61d79b3a733d3e2c0fb5e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 0.04,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 25WETH-25BAL-25GNO-25wxDAI",
+    "address": "0xa99fd9950b5d5dceeaf4939e221dca8ca9b938ab",
+    "fees48h": 1.86,
+    "volume48h": 744.82,
+    "holdersCount": 37,
+    "totalLiquidity": 3345.65,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "B-50SAFE-50GNO",
+    "address": "0xa9b2234773cc6a4f3a34a770c52c931cba5c24b2",
+    "fees48h": 199.47,
+    "volume48h": 66489.49,
+    "holdersCount": 6,
+    "totalLiquidity": 513818.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-Circles Backers-ERC20s",
+    "address": "0xa9f1e297fa2a50ee9708a6c1f30083c0997ba747",
+    "fees48h": 0.04,
+    "volume48h": 4.37,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Gyroscope ECLP sDAI/USDC.e Rehype",
+    "address": "0xaa56989be5e6267fc579919576948db3e1f10807",
+    "fees48h": 2.19,
+    "volume48h": 21946.56,
+    "holdersCount": 40,
+    "totalLiquidity": 257460.76,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BCoW AMM 50GNO-50SAFE",
+    "address": "0xad58d2bc841cb8e4f8717cb21e3fb6c95dcbc286",
+    "fees48h": 3.3,
+    "volume48h": 28726.34,
+    "holdersCount": 6,
+    "totalLiquidity": 1206837.18,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50wstETH-25BAL-25AURA",
+    "address": "0xad5fb05b2ade70b046e4cf2b5daf731e44347e4f",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4FGB5CAxMqT8LD27nmsKyCCp7oQo-ERC20s",
+    "address": "0xad8bb05a99d15d3a421c41228ecde050d0b3d0b3",
+    "fees48h": 0.01,
+    "volume48h": 0.32,
+    "holdersCount": 2,
+    "totalLiquidity": 131.47,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50sDAI-50bCOIN",
+    "address": "0xadf65e3da99f7d1efe7c5dea899abec9720139d0",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 41.84,
+    "tags": "RWA"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50bCSPX-50sDAI",
+    "address": "0xae2a38545167be5a2eba9b931b28de5a7d95315e",
+    "fees48h": 0.31,
+    "volume48h": 104.33,
+    "holdersCount": 57,
+    "totalLiquidity": 309152.2,
+    "tags": "RWA"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "33PAXG 33WBTC 34waGnowstETH",
+    "address": "0xb1baf0d7c3a938b75a8cd7ef24edd5ee9fba62c1",
+    "fees48h": 0,
+    "volume48h": 0.05,
+    "holdersCount": 2,
+    "totalLiquidity": 1.27,
+    "tags": "BOOSTED_AAVE,BOOSTED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer EURE/USDC.E Stable Pool",
+    "address": "0xb6f15ecafa41046bb5602bf98c537f85baf3b16d",
+    "fees48h": 0,
+    "volume48h": 1.11,
+    "holdersCount": 2,
+    "totalLiquidity": 1.99,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 PAXG 50 wstETH",
+    "address": "0xb71b58d5360698c10246326a5aad7309ecad8d24",
+    "fees48h": 0,
+    "volume48h": 13.89,
+    "holdersCount": 4,
+    "totalLiquidity": 350.75,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "25WBTC 25PAXG25sDAI25waGnowstETH",
+    "address": "0xb724f537f7d820121b0e53490391e6f6018a8000",
+    "fees48h": 0,
+    "volume48h": 0.13,
+    "holdersCount": 1,
+    "totalLiquidity": 4.26,
+    "tags": "BOOSTED_AAVE,BOOSTED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WETH-50GNO",
+    "address": "0xb8bb1ce9c6e5401d66fe2126db6e7387e1e24ffe",
+    "fees48h": 0,
+    "volume48h": 1.39,
+    "holdersCount": 17,
+    "totalLiquidity": 51.29,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50bbagGNO-50bbagUSD",
+    "address": "0xb973ca96a3f0d61045f53255e319aedb6ed49240",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 10,
+    "totalLiquidity": 0.45,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Stable WETH wstETH pool",
+    "address": "0xbad20c15a773bf03ab973302f61fabcea5101f0a",
+    "fees48h": 146.6,
+    "volume48h": 1465960.23,
+    "holdersCount": 98,
+    "totalLiquidity": 11476449.14,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4HNHoeA85pxifWiLvn3QoxJK4L2A-ERC20s",
+    "address": "0xbae2c20af326a1cee8fd4f094f8eed7edd30598b",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 9.2,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "20XOC-80USDC",
+    "address": "0xbc130c4989e10941142b34f054eb38d69fdce9df",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.13,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50sDAI-50wstETH",
+    "address": "0xbc2acf5e821c5c9f8667a36bb1131dad26ed64f9",
+    "fees48h": 3349.75,
+    "volume48h": 1116581.78,
+    "holdersCount": 57,
+    "totalLiquidity": 4103743.29,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "40USDC-60WXDAI",
+    "address": "0xbea652aa29d38114e9d36f2a2e4167b13df68e73",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 5,
+    "totalLiquidity": 2.51,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50waGnoGNO 50GIV",
+    "address": "0xbf945292dc5cbbc8b742083f87d502699cb27414",
+    "fees48h": 0.84,
+    "volume48h": 167.74,
+    "holdersCount": 1,
+    "totalLiquidity": 77613.29,
+    "tags": "BOOSTED_AAVE,BOOSTED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-8tN28AdeC6L9iDeidHnkzmZDEiT-ERC20s",
+    "address": "0xc163a3adc928442c341a5e741a1e8b641d6540ed",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 10.24,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BAL-GROSH-crvUSD",
+    "address": "0xc2e5bb9902290165e9bc8d314881389d6ae4b75f",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3hKhwcb4DjiHVRNRuRU1dMdCHo2p-ERC20s",
+    "address": "0xc5372e5ae7e56c7145c1d9db09082a8a54ec26cf",
+    "fees48h": 0,
+    "volume48h": 0.41,
+    "holdersCount": 2,
+    "totalLiquidity": 0.71,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50EURe-50GBPe",
+    "address": "0xc5df11757f4a8dfaccc731d13b9577f67055c6c6",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.52,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "EURe-jEUR",
+    "address": "0xc66936a47e6d40dd050a8419b4352825d9082241",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 7,
+    "totalLiquidity": 2507.49,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-467adaFEyS2adGVKS2jgsKC1y1iW-ERC20s",
+    "address": "0xc66d16b5c006005e71461b7ea66294feb8e54458",
+    "fees48h": 0.01,
+    "volume48h": 0.64,
+    "holdersCount": 2,
+    "totalLiquidity": 8.58,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3pvUxnoYMvnxBU6vPKKQzTJGefPP-ERC20s",
+    "address": "0xc8ad1ccafec59b0ccac82f3d60339a6e2ad4cf1c",
+    "fees48h": 0,
+    "volume48h": 0.06,
+    "holdersCount": 2,
+    "totalLiquidity": 1.17,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-wYSRwUYFmrPifaPrWfRDjwckTxw-ERC20s",
+    "address": "0xc8d648f6a0f0ee7a690ad247bce9711550bcfe0f",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 13.04,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BAL-GROSH-sDAI",
+    "address": "0xc9ca1a35a3abb3607a91b4362923df9cd2c0e8e0",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-bGWJNAvpwPfP91geazTBrkNvBwm-ERC20s",
+    "address": "0xc9cf1e7862aab15c1f44a72c10286cf7ca7dca35",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 1.4,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-akHhAcEvvRfavfxMyXCKbMks5vp-ERC20s",
+    "address": "0xc9de06270f6f3a48b50270987a38f1c789ba97f5",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 10.61,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer crvUSD/sDAI",
+    "address": "0xc9f00c3a713008ddf69b768d90d4978549bfdf94",
+    "fees48h": 0,
+    "volume48h": 0.79,
+    "holdersCount": -6461,
+    "totalLiquidity": 2519.76,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2WnQUYDPWcM88UoyvSbtHUNMpDNx-ERC20s",
+    "address": "0xcb2b12936de9eef4b76468e8e4c686119c7c6c3c",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 8.8,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50bTSLA-50sDAI",
+    "address": "0xcb3adcf147da57c4e129c5bd34ab0429501454e5",
+    "fees48h": 0,
+    "volume48h": 0.36,
+    "holdersCount": 2,
+    "totalLiquidity": 22.31,
+    "tags": "RWA"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "51WETH-49WXDAI",
+    "address": "0xcdb3863fae60fe9fee4d62820e9002f924644332",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 0.21,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50agEUR-50USDC",
+    "address": "0xce527b9f739c4becdd05b416ffa70470a7eec565",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "homegroup_test_lbp",
+    "address": "0xcebfccc8fac11b95f0b1eb2be01b69e9477cbe34",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.1,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WETH 50GNO",
+    "address": "0xcf02e93aab8dcd3d2c22e2b11ae4d3bd1b85503b",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 0.05,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "55WETH-45WXDAI",
+    "address": "0xd07748006d338ac12b8aa60d27f8645481461914",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "bCSPX waGnoUSDCe",
+    "address": "0xd094cf99cdc5b043961b80c1307e977946f32c6e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 8.02,
+    "tags": "RWA,BOOSTED_AAVE,BOOSTED,HOOKS_STABLESURGE"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-2FZzWUZy2LhCxUgGzVwhnAgCTgiu-ERC20s",
+    "address": "0xd1487668573a0fbe3405852bc6d302dbbd13e3f0",
+    "fees48h": 0.01,
+    "volume48h": 0.38,
+    "holdersCount": 2,
+    "totalLiquidity": 100.18,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer CoW AMM 50 WETH 50 BAL",
+    "address": "0xd195a02273602fe1f4c8706846df0d9d23b7109e",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 0.03,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "CRC Pool",
+    "address": "0xd19ec5133d567f9611ad61e902c821742699275f",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 2.96,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "WXDAI NO",
+    "address": "0xd1a5de495ac92ae577587bac76f4f654f833882b",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 1.86,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer aGNO/sDAI",
+    "address": "0xd1d7fa8871d84d0e77020fc28b7cd5718c446522",
+    "fees48h": 669.72,
+    "volume48h": 267889.26,
+    "holdersCount": 19,
+    "totalLiquidity": 1471123.84,
+    "tags": "BOOSTED_AAVE,BOOSTED,INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "wstETH-GROSH",
+    "address": "0xd37b12e79958fc7dcc9245fcea73e233c9c635e6",
+    "fees48h": 0.02,
+    "volume48h": 2.39,
+    "holdersCount": 3,
+    "totalLiquidity": 98.74,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-bGWJNAvpwPfP91geazTBrkNvBwm-ERC20s",
+    "address": "0xd43632b1f2aba6c4a9849aee75177739a43b4833",
+    "fees48h": 0,
+    "volume48h": 0.03,
+    "holdersCount": 2,
+    "totalLiquidity": 8.95,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "33waGnowstETH 33PAXG 34sDAI",
+    "address": "0xd7f492f3c43e3d0a617c9e7dacfeddb03bfa2c15",
+    "fees48h": 0,
+    "volume48h": 1.51,
+    "holdersCount": 2,
+    "totalLiquidity": 18.98,
+    "tags": "BOOSTED_AAVE,BOOSTED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BCoW AMM 50GNO-50OLAS",
+    "address": "0xd7f99b1cda3eecf6b6eaa8a61ed21d061e745400",
+    "fees48h": 0,
+    "volume48h": 46337.49,
+    "holdersCount": 3,
+    "totalLiquidity": 751319.84,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3VBw5myPa1hj7cofuki3YZR66xgT-ERC20s",
+    "address": "0xd976350fa15fe278108b493be1721ba9cb8ad623",
+    "fees48h": 0,
+    "volume48h": 0.01,
+    "holdersCount": 2,
+    "totalLiquidity": 9.98,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Aave EURe-USDCe",
+    "address": "0xdbc150e4f420ed2e08a8068920e84733baf2f5d4",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 15.21,
+    "tags": "BOOSTED_AAVE,BOOSTED,HOOKS_STABLESURGE"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "B-50GIV-50GNO",
+    "address": "0xdccaa73705dc7457bcfb3dafee529b30920e3008",
+    "fees48h": 1.32,
+    "volume48h": 439.63,
+    "holdersCount": 3,
+    "totalLiquidity": 79599.31,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer EURe/sDAI",
+    "address": "0xdd439304a77f54b1f7854751ac1169b279591ef7",
+    "fees48h": 1153.51,
+    "volume48h": 461402.6,
+    "holdersCount": -10931,
+    "totalLiquidity": 4664949.32,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "20GNO-80OLAS",
+    "address": "0xddafa272b737c387ab1a677f35ad05609ef072bb",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50WETH-50GNO",
+    "address": "0xdfe4f5b252b24784805343983c588c657741d408",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.03,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3V2zoCNaYNoKJDafLHeCKdMYWkVC-ERC20s",
+    "address": "0xe0b030f966f0293a36b7027026ad7f4613a1d128",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 10.77,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "sDAI waUSDCe",
+    "address": "0xe1204e7ca5b5ca0bfa07247b9ab3c46fa1d4001b",
+    "fees48h": 0,
+    "volume48h": 81.68,
+    "holdersCount": 5,
+    "totalLiquidity": 41.19,
+    "tags": "BOOSTED_AAVE,BOOSTED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Boosted Agave USD",
+    "address": "0xe15cac1df3621e001f76210ab12a7f1a1691481f",
+    "fees48h": 0,
+    "volume48h": 0.42,
+    "holdersCount": 5,
+    "totalLiquidity": 6.85,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "B-50WBTC-50WETH",
+    "address": "0xe2343512dcf8a23d81e6cdc2fac656db1ff83aa1",
+    "fees48h": 795.68,
+    "volume48h": 265225.24,
+    "holdersCount": 4,
+    "totalLiquidity": 2758733.2,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50MIVA-50sDAI",
+    "address": "0xe42ebbd354d9aad787e7730064187acabe4317ad",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.49,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "5XOC-95USDC",
+    "address": "0xe45e5dbdf602e15810cd254a2b6ea38e3dcf46bb",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4YB5EuJneNhWPnqg4kUmTWXbu2zY-ERC20s",
+    "address": "0xe4d9b50e0512fa77480de2ab3580e93322b8e246",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 10.16,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-46ZR89k5Qag1JW9uvCGTpNysPG6z-ERC20s",
+    "address": "0xe4e25663a3010dc3a48225d4a2215caf3032e3d2",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 1.35,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer EURe/crvUSD",
+    "address": "0xe6098b5511b36134717e678658a658104a7f70f0",
+    "fees48h": 0,
+    "volume48h": 0.46,
+    "holdersCount": 3,
+    "totalLiquidity": 20.36,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50USD-50bCSPX",
+    "address": "0xe85eb550e98ee66d19c667de24c5c8e10fee6504",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": "RWA"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-4JbDvPuEFQSGN8AzFTR2mY9vrRHa-ERC20s",
+    "address": "0xe878a060b74e743da9bdeb59cd52af5add9cd259",
+    "fees48h": 0.01,
+    "volume48h": 1.12,
+    "holdersCount": 2,
+    "totalLiquidity": 9.58,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "s-ZUCRCW66sDAIW33",
+    "address": "0xe89023c28eb5f7079f88a284546dec8fb8c3cd02",
+    "fees48h": 0.05,
+    "volume48h": 4.77,
+    "holdersCount": 3,
+    "totalLiquidity": 158.3,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50GBPe-50WXDAI",
+    "address": "0xea54604e7e1ddec8320cf838cfe857fbf44aad9f",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 2.52,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-gfkx8u5eHL4ppcPYHZPBKX4279P-ERC20s",
+    "address": "0xea823f638d68b8f40701d2c6ad65140194f41163",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 9.91,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "B-50wstETH-50GNO",
+    "address": "0xeae5e24b40343f475676241fde1a86041f212084",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50USD-50wstETH",
+    "address": "0xeb30c85cc528537f5350cf5684ce6a4538e13394",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 15,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-HmjaNz9RzPzv4eobnhmCrscYkQu-ERC20s",
+    "address": "0xeb955827a062b97c3da1f66057de268cc409356b",
+    "fees48h": 0,
+    "volume48h": 0.21,
+    "holdersCount": 2,
+    "totalLiquidity": 1.15,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "59EURe 1sDAI 40USDC.e",
+    "address": "0xecc5aebd9569c82a0944007b22d03801a8fdfe99",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 1,
+    "totalLiquidity": 0.03,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50mockWXDAI-50baseToken",
+    "address": "0xed8e0eb46598a6823261f49cf116bb3d16a68b21",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 3,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "33GNOBBY-33GNO-33sDAI",
+    "address": "0xee0e7b0d82da252a30aeccedef6840d6275ffc43",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3JggDgc3mgSKxRTgQEcVssUuT3AB-ERC20s",
+    "address": "0xee74581ab10e421a9ed7abf21d8db50a047ab656",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.86,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3JggDgc3mgSKxRTgQEcVssUuT3AB-ERC20s",
+    "address": "0xef18c0a94d1b2014121d7f8ce8f108f2e811fca6",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 8.98,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "groupLBP-Breadchain",
+    "address": "0xf66cb9f47e1ef7072d7159c41ab1b81624277cc6",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 995.75,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer 50USD-50bIB01",
+    "address": "0xf6bfffb47bc125564cbb6cc0e7633eb7addaefce",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "circlesBackingLBP-Circles-3eggiVNCrcWoDctiRnz6fGB2LARs-ERC20s",
+    "address": "0xf80842c45265af9bede769a98dba68fc7913e10c",
+    "fees48h": 0,
+    "volume48h": 0.08,
+    "holdersCount": 2,
+    "totalLiquidity": 1.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50USDT-50WXDAI",
+    "address": "0xf94e8be09a276d2ca75aeb02113893dc5034bb66",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.02,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "sDAI PAXG",
+    "address": "0xf9dc067dc6287f1b87a20872b95c2dd761b7c8e8",
+    "fees48h": 0.04,
+    "volume48h": 1.24,
+    "holdersCount": 2,
+    "totalLiquidity": 17.8,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "40FRACTION-40MIVA-20GNO",
+    "address": "0xfa0017abd72bb87443c3f39b9434d357cc1eec27",
+    "fees48h": 0.07,
+    "volume48h": 21.89,
+    "holdersCount": 6,
+    "totalLiquidity": 614.17,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "20WETH-80WXDAI",
+    "address": "0xfa1f69d54c472b59d0094400e3f3cf297a8a4c2b",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.14,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "80MIVA-20WXDAI",
+    "address": "0xfbc3112172ba256454047d7436d1e08b3cdc5031",
+    "fees48h": 0.03,
+    "volume48h": 8.34,
+    "holdersCount": 12,
+    "totalLiquidity": 8638.79,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Stable USD3",
+    "address": "0xfc095c811fe836ed12f247bcf042504342b73fb7",
+    "fees48h": 82.04,
+    "volume48h": 820440.69,
+    "holdersCount": 19,
+    "totalLiquidity": 6473462,
+    "tags": "INCENTIVIZED"
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "BCoW AMM 50sDAI-50COW",
+    "address": "0xfcd125f4c5030137634863a2d3e5d6d89158f19c",
+    "fees48h": 0,
+    "volume48h": 153.31,
+    "holdersCount": 6,
+    "totalLiquidity": 657.52,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "lbptest1",
+    "address": "0xfe7291b6c7f2fb7ec90e365d5303338ebcbf4a87",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 0.01,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "50sDAI-50bIB01",
+    "address": "0xfed80d133fb70101dcb69c5a0598d31127e564c2",
+    "fees48h": 0,
+    "volume48h": 0,
+    "holdersCount": 2,
+    "totalLiquidity": 23.48,
+    "tags": ""
+  },
+  {
+    "chain": "GNOSIS",
+    "name": "Balancer Agave Boosted StablePool",
+    "address": "0xfedb19ec000d38d92af4b21436870f115db22725",
+    "fees48h": 0.43,
+    "volume48h": 4.35,
+    "holdersCount": 11170,
+    "totalLiquidity": 140.86,
+    "tags": ""
+  }
+]
